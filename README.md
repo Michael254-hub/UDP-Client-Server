@@ -1,5 +1,4 @@
-# UDP-Client-Server
-Sure! Let’s go through your **UDP Server code** **line by line** to understand its functionality.
+# **UDP-Server**
 
 ---
 
@@ -161,7 +160,7 @@ If the client sends `"Hello, Server!"`, the server will send back `"Message rece
 
 ---
 
-Let's go through your **UDP Client code** **line by line** to understand its functionality.
+# **UDP-Client** 
 
 ---
 
